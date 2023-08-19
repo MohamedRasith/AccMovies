@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.acc.movies.acc_movies">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="ACC Movies"
         android:name="${applicationName}"
