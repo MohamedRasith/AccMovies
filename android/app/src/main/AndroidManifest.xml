@@ -1,10 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.acc.movies.acc_movies">
    <application
-        android:label="acc_movies"
-       android:name="${applicationName}"
-       android:usesCleartextTraffic="true"
-        android:icon="@mipmap/ic_launcher">
+        android:label="ACC Movies"
+        android:name="${applicationName}"
+        android:usesCleartextTraffic="true"
+        android:icon="@mipmap/logo">
         <activity
             android:name=".MainActivity"
             android:exported="true"
